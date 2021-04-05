@@ -1,5 +1,7 @@
 ### Next.js page examples
 
+![Nextjs page examples](https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png "Nextjs page examples")
+
 - [x] static render
 - [x] static render + client-side fetch
 - [x] server side rendering
