@@ -41,7 +41,6 @@ export default function Home() {
           {pageModes.map((mode) => (
             <li key={mode.value} className="pageModeItem">
               <input
-                style={{ cursor: "pointer" }}
                 type="radio"
                 id={mode.value}
                 value={mode.value}
@@ -109,7 +108,14 @@ export default function Home() {
           }
 
           .pageModeItem {
-            margin-bottom: 0.2rem;
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.5rem;
+          }
+
+          .pageModeItem input {
+            cursor: pointer;
+            margin-top: 0;
           }
 
           .pokemons {
