@@ -18,12 +18,12 @@ class MyDocument extends Document {
             name="keywords"
             content="Nextjs,SSR,SSG,Page types,marcosrjjunior,static rendering, server-side rendering,javascript"
           />
-          <meta property="og:title" content="nextjs page examples" />
-          <meta property="og:site_name" content="nextjs page examples" />
+          <meta property="og:title" content="Nextjs pages" />
+          <meta property="og:site_name" content="Nextjs pages" />
           <meta name="author" content="@marcosrjjunior" />
           <meta
             property="og:image"
-            content="https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png"
+            content="https://raw.githubusercontent.com/marcosrjjunior/nextjs-pages/main/home.png"
           />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://nextjs-pages.vercel.app/" />
@@ -34,7 +34,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png"
+            content="https://raw.githubusercontent.com/marcosrjjunior/nextjs-pages/main/home.png"
           />
 
           <meta property="twitter:card" content="summary_large_image" />
@@ -49,7 +49,7 @@ class MyDocument extends Document {
           />
           <meta
             property="twitter:image"
-            content="https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png"
+            content="https://raw.githubusercontent.com/marcosrjjunior/nextjs-pages/main/home.png"
           />
         </Head>
         <body>
