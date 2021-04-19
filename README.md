@@ -1,4 +1,4 @@
-### Next.js page examples
+### Next.js pages
 
 Simple demo created to show how a page behaves based on the selected type.
 
