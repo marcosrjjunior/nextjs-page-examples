@@ -32,10 +32,10 @@ const Navbar = ({ initialData, pokemon, loadXpClientSide }) => {
     router.pathname !== "/" && router.pathname.indexOf("simple") === -1;
 
   return (
-    <ul style={s.items}>
+    <ul className="items">
       <li>
         <Link href="/">
-          <a>Home</a>
+          <a className="home">Home</a>
         </Link>
       </li>
 
@@ -48,6 +48,34 @@ const Navbar = ({ initialData, pokemon, loadXpClientSide }) => {
           )}
         </>
       )}
+
+      <style jsx>{`
+        .items {
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          column-gap: 10px;
+          list-style: none;
+          padding-left: 0;
+          margin: 1.5rem 0px;
+        }
+
+        .home {
+          padding: 0.5rem;
+          background: #9bb2be;
+          border-radius: 5px;
+          color: white;
+          text-decoration: none;
+          border: 1px solid transparent;
+        }
+
+        .home:hover {
+          background: #899ca7;
+        }
+
+        .home:active {
+          border: 1px solid #4c6370;
+        }
+      `}</style>
     </ul>
   );
 };

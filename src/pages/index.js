@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import Head from "next/head";
 
 const pageModes = [
   {
@@ -30,6 +31,10 @@ export default function Home() {
 
   return (
     <>
+      <Head>
+        <title>Nextjs page examples</title>
+      </Head>
+
       <div className="pageMode">
         <strong>Page mode</strong>
         <ul className="pageModeItems">

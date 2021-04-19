@@ -1,5 +1,7 @@
 ### Next.js page examples
 
+Simple demo created to show how a page behaves based on the selected type.
+
 ![Nextjs page examples](https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png "Nextjs page examples")
 
 - [x] static render
@@ -8,6 +10,8 @@
 - [x] server side + client-side fetch
 - [x] client side rendering ("just react")
 - [x] auth examples (good examples here)
-    - (next auth) https://next-auth-example.now.sh/
-    - (passport.js) https://github.com/vercel/next.js/tree/canary/examples/with-passport
-    - (iron session) https://github.com/vercel/next.js/tree/canary/examples/with-iron-session
+  - (next auth) https://next-auth-example.now.sh/
+  - (passport.js) https://github.com/vercel/next.js/tree/canary/examples/with-passport
+  - (iron session) https://github.com/vercel/next.js/tree/canary/examples/with-iron-session
+
+[Nextjs Page](https://nextjs.org/docs/basic-features/pages "Nextjs page doc")
