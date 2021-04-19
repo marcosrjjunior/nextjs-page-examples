@@ -2,7 +2,7 @@
 
 Simple demo created to show how a page behaves based on the selected type.
 
-![Nextjs page examples](https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png "Nextjs page examples")
+![Nextjs pages](https://raw.githubusercontent.com/marcosrjjunior/nextjs-pages/main/home.png "Nextjs pages")
 
 - [x] static render
 - [x] static render + client-side fetch

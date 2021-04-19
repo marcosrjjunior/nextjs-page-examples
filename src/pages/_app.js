@@ -17,7 +17,7 @@ const MyApp = ({ Component, pageProps }) => {
         }}
       >
         <a
-          href="https://github.com/marcosrjjunior/nextjs-page-examples"
+          href="https://github.com/marcosrjjunior/nextjs-pages"
           target="_blank"
         >
           <img
