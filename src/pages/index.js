@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Nextjs page examples</title>
+        <title>Nextjs pages @marcosrjjunior</title>
       </Head>
 
       <div className="pageMode">

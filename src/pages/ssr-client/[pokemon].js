@@ -19,10 +19,6 @@ export default function PokemonSSRClient({ pokemon, initialData }) {
     <div>
       <Head>
         <title>Server side rendering + client-side</title>
-        <meta
-          name="description"
-          content="Server side rendering + client-side"
-        />
       </Head>
       <PageTitle>Server side rendering + client-side</PageTitle>
 

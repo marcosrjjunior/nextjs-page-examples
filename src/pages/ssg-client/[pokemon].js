@@ -24,7 +24,6 @@ export default function PokemonSSGClient({ pokemon, initialData }) {
     <div>
       <Head>
         <title>Static rendering + client-side</title>
-        <meta name="description" content="Static rendering + client-side" />
       </Head>
       <PageTitle>Static rendering + client-side</PageTitle>
 

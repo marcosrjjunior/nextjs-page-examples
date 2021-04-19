@@ -12,23 +12,43 @@ class MyDocument extends Document {
         <Head>
           <meta
             name="description"
-            content="Simple demo created to show how a page behaves based on the selected type"
+            content="Simple demo created to show how a page behaves based on the selected type. @marcosrjjunior"
           />
-          <meta name="keywords" content="Nextjs,SSR,SSG,Page types,marcosrjjunior,static rendering, server-side rendering,javascript" />
+          <meta
+            name="keywords"
+            content="Nextjs,SSR,SSG,Page types,marcosrjjunior,static rendering, server-side rendering,javascript"
+          />
           <meta property="og:title" content="nextjs page examples" />
           <meta property="og:site_name" content="nextjs page examples" />
           <meta name="author" content="@marcosrjjunior" />
           <meta
-            property="og:url"
-            content="https://nextjs-page-examples.vercel.app/"
-          />
-          <meta
-            property="og:description"
-            content="Simple demo created to show how a page behaves based on the selected type"
+            property="og:image"
+            content="https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png"
           />
           <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://nextjs-pages.vercel.app/" />
+          <meta property="og:title" content="Nextjs pages" />
+          <meta
+            property="og:description"
+            content="Simple demo created to show how a page behaves based on the selected type. @marcosrjjunior"
+          />
           <meta
             property="og:image"
+            content="https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png"
+          />
+
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta
+            property="twitter:url"
+            content="https://nextjs-pages.vercel.app/"
+          />
+          <meta property="twitter:title" content="Nextjs pages" />
+          <meta
+            property="twitter:description"
+            content="Simple demo created to show how a page behaves based on the selected type. @marcosrjjunior"
+          />
+          <meta
+            property="twitter:image"
             content="https://github.com/marcosrjjunior/nextjs-page-examples/blob/main/home.png"
           />
         </Head>

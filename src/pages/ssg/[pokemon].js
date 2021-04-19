@@ -21,7 +21,6 @@ export default function PokemonSSG({ pokemon, initialData }) {
     <div>
       <Head>
         <title>Static rendering</title>
-        <meta name="description" content="Static rendering" />
       </Head>
 
       <PageTitle>Static rendering</PageTitle>
