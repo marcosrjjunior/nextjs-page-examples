@@ -1,8 +1,9 @@
 {
-  "name": "server-render",
+  "name": "nextjs-pages",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "marcosrjjunior <marcosrjjunior@gmail.com> (https://marcosrjjunior.github.io/)",
   "dependencies": {
     "axios": "^0.21.1",
     "next": "^10.1.3",

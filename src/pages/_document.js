@@ -18,8 +18,11 @@ class MyDocument extends Document {
             name="keywords"
             content="Nextjs,SSR,SSG,Page types,marcosrjjunior,static rendering, server-side rendering,javascript"
           />
-          <meta property="og:title" content="Nextjs pages" />
-          <meta property="og:site_name" content="Nextjs pages" />
+          <meta property="og:title" content="Nextjs pages @marcosrjjunior" />
+          <meta
+            property="og:site_name"
+            content="Nextjs pages @marcosrjjunior"
+          />
           <meta name="author" content="@marcosrjjunior" />
           <meta
             property="og:image"
